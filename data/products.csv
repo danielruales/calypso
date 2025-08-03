@@ -1,0 +1,31 @@
+product_id,product_brand,product_name,product_description,product_price,product_category,product_subcategory
+1,Luxor,Luxor Designer T-Shirt,High-quality cotton designer t-shirt with unique prints,79.99,Clothing,T-shirts
+2,Hermanos,Classic Cotton T-Shirt,Durable cotton t-shirt in various colors,24.99,Clothing,T-shirts
+3,Daily Value,Basic Tee,Affordable and comfortable basic t-shirt,9.99,Clothing,T-shirts
+4,Luxor,Luxor Tailored Pants,Luxury tailored pants with fine stitching and fabrics,129.99,Clothing,Pants
+5,Hermanos,Chino Pants,Stylish chino pants for casual and business wear,49.99,Clothing,Pants
+6,Daily Value,Regular Fit Pants,Comfortable straight-leg pants for everyday use,19.99,Clothing,Pants
+7,Luxor,Luxor Fine Leather Shoes,Handcrafted elegant leather shoes,199.99,Clothing,Shoes
+8,Hermanos,Comfort Sneakers,Versatile sneakers for everyday activities,59.99,Clothing,Shoes
+9,Daily Value,Slip-On Casual Shoes,Easy slip-on shoes for quick use,25.99,Clothing,Shoes
+10,Luxor,Luxor Sparkling Water,Premium sparkling natural mineral water,3.99,Drinks,Water
+11,Hermanos,Refreshing Sparkling Water,Refreshing sparkling water with light carbonation,1.99,Drinks,Water
+12,Daily Value,Value Spring Water,Bottled spring water at an affordable price,0.99,Drinks,Water
+13,Luxor,Luxor Beer,Exclusive artisan-crafted lager,15.99,Drinks,Beer
+14,Hermanos,Craft Beer,Quality craft beer with a rich flavor,5.99,Drinks,Beer
+15,Daily Value,Budget Lager,Crisp and refreshing lager,1.49,Drinks,Beer
+16,Luxor,Luxor Artisan Soda,Handcrafted soda with unique flavors,4.99,Drinks,Soda
+17,Hermanos,Classic Cola Soda,West coast style cola with classic taste,1.49,Drinks,Soda
+18,Daily Value,Fruity Soda,Affordable soda with assorted fruity flavors,0.89,Drinks,Soda
+19,Luxor,Luxor Ultra Laptop,High-performance luxury laptop for professionals,2499.99,Electronics,Laptop
+20,Hermanos,Mid-Range Laptop,Balanced performance laptop for work and play,799.99,Electronics,Laptop
+21,Daily Value,Budget Laptop,Functional laptop for everyday tasks,299.99,Electronics,Laptop
+22,Luxor,Luxor Pro Smartphone,High-end smartphone with exceptional camera,1299.99,Electronics,Smartphone
+23,Hermanos,Smartphone Plus,Feature-rich smartphone at a reasonable price,499.99,Electronics,Smartphone
+24,Daily Value,Budget Smartphone,Basic smartphone with essential features,199.99,Electronics,Smartphone
+25,Luxor,Luxor Premium Headphones,Noise-canceling headphones with superior sound,349.99,Electronics,Headphones
+26,Hermanos,Comfort Audio Headphones,Affordable headphones with decent sound quality,79.99,Electronics,Headphones
+27,Daily Value,Budget Headphones,Inexpensive headphones for casual use,19.99,Electronics,Headphones
+28,Luxor,Luxor Fashion T-Shirt,Trendy graphic t-shirt known for luxury fit and comfort,89.99,Clothing,T-shirts
+29,Hermanos,Stylish Work Pants,Chic fit pants designed for versatility in the office,69.99,Clothing,Pants
+30,Daily Value,Comfortable Casual Shoes,Great budget footwear for daily relaxation,22.99,Clothing,Shoes
