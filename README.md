@@ -138,3 +138,12 @@ $ streamlit run ui/app.py
 - `scripts/reward_tuning.py` – Reinforcement Learning with human feedback (RLHF)
 - `scripts/eval.py` – Evaluation runner with multiple test cases
 - `scripts/trace_agent.py` – Log agent traces to Braintrust
+
+---
+
+## Future Considerations
+
+- The agent should eventually have a memory to remember the user's prefered styles.
+- The agent could benefit from a cache of previous questions and answers to avoid recacling the same question.
+- More complex database structures would need more advanced metadata and potential RAG solutions to answer questions effectively.
+- A deep research agent could be added for more open ended and complex questions.
